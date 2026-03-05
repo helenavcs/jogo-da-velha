@@ -5,8 +5,8 @@ Este projeto implementa o clássico Jogo da Velha utilizando Python e a bibliote
 O minijogo foi desenvolvido com foco em simplicidade, interatividade e aprendizado de conceitos básicos de programação orientada a eventos.
 
 
+<img width="477" height="495" alt="jogo-da-velha" src="https://github.com/user-attachments/assets/56302b77-8f01-4e0b-9b6f-40028b2115c5" />
 
-<img width="647" height="440" alt="gerador-esquema-cores" src="https://github.com/user-attachments/assets/f06d69cd-1372-4597-821b-698aefe93f2c"/>
 
 
 
